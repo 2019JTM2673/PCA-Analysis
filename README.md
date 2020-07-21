@@ -4,3 +4,4 @@ Here we will use PCA to reduce dimension.
 #Calculation of eigen values and vectors
 #Compute principal components
 #Reducing dimensions of data
+PCA is unsupvervised 
